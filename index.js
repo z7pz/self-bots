@@ -8,6 +8,7 @@ const config = {
     "token",
    */
   const arr = [
+    "token",
     "token1",
     "token2",
     "token3",
